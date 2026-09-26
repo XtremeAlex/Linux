@@ -9,4 +9,4 @@ pensate per chi muove i primi passi con i server.
 
 ## Contatti
 
-Andrei Alexandru Dabija — [github.com/XtremeAlex](https://github.com/XtremeAlex)
+Andrei Alexandru Dabija — [LinkedIn](https://www.linkedin.com/in/andrei-alexandru-dabija/) — [github.com/XtremeAlex](https://github.com/XtremeAlex)
